@@ -4,10 +4,10 @@ Paper Link: https://arxiv.org/abs/1912.04488
 
 -Pytorch implementation of SOLO
 
-**FPN**
+FPN
 
 ![](FPN.PNG)
 
-**SOLO** 
+SOLO
 
 ![](Solo_model.PNG)
