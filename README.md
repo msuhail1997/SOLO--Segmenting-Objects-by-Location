@@ -6,4 +6,4 @@ Paper Link: https://arxiv.org/abs/1912.04488
 
 ![](FPN.PNG)
 
-![](6.5.4.png)
+![](Solo_model.PNG)
