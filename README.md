@@ -1,4 +1,4 @@
-# SOLO--Segmenting-Objects-by-Location
+# SOLO--Segmenting-Objects-by-Location for Instance Segmentation
 
 Paper Link: https://arxiv.org/abs/1912.04488
 
